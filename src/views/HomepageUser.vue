@@ -28,7 +28,7 @@
                             <button class=" w-fit bg-[#fcfe8b] h-fit px-4 py-2 font-bold rounded-lg shadow-lg shadow-[#af9746] border-2 border-[#d9ee23]">Coupons</button>
                         </div>
                         <div class="right-coupon bg-cover">
-                            <img class="bg-cover" src="../assets/coupon-removebg-preview (1).png" alt="">
+                            <img class="bg-cover" src="../assets/coupon.png" alt="">
                         </div>
                     </div>
                     <div class="delivery w-full bg-[#c6fff5] flex items-center justify-between gap-4 p-8 rounded-lg shadow-lg shadow-[#387475] border-2 border-[#4bc6ee]">

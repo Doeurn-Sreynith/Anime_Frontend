@@ -66,11 +66,11 @@
                 <div class="flex justify-center p-8">
                     <div class="button-contact flex items-center gap-8 ">
                         <button class="bg-[#fcfe8b] p-2 rounded-md flex justify-between items-center">
-                            <img class="w-6 " src="../assets/image-removebg-preview (1).png" alt="">
+                            <img class="w-6 " src="../assets/apple_logo.png" alt="">
                             <p>Iphone</p>
                         </button>
                         <button class="bg-[#fcfe8b] p-2 rounded-md flex justify-between items-center">
-                            <img class="w-6 " src="../assets/image-removebg-preview (1).png" alt="">
+                            <img class="w-6 " src="../assets/apple_logo.png" alt="">
                             <p>Iphone</p>
                         </button>
                     </div>
